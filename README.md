@@ -17,6 +17,8 @@ I am currently working in Varco as Co-Founder & Software Engineer. I have profes
 
 ![Profile views](https://gpvc.arturio.dev/ibrahimozdogan)
 
+###### Motto
+> You can never understand everything. But, you should push yourself to understand the system. - Ryan Dahl
 
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
