@@ -15,10 +15,9 @@ I am currently working in Varco as Co-Founder & Software Engineer. I have profes
 * <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/hacker-rank.svg" width="16" height="16" /> HackerRank: [ibrahimozdogan](https://www.hackerrank.com/ibrahimozdogan)
 * <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/codingame.svg" width="16" height="16" /> Codingame: [ibrahimozdogan](https://www.codingame.com/profile/037e6ca14a388dc8cbd8fd30a6a4d50a4538983)
 
-![Profile views](https://gpvc.arturio.dev/ibrahimozdogan)
-
 ##### Motto
 > You can never understand everything. But, you should push yourself to understand the system. - Ryan Dahl
 
+![Profile views](https://gpvc.arturio.dev/ibrahimozdogan)
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
