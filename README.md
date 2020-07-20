@@ -17,7 +17,7 @@ I am currently working in Varco as Co-Founder & Software Engineer. I have profes
 
 ![Profile views](https://gpvc.arturio.dev/ibrahimozdogan)
 
-###### Motto
+##### Motto
 > You can never understand everything. But, you should push yourself to understand the system. - Ryan Dahl
 
 
