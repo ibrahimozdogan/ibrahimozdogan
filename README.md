@@ -8,8 +8,8 @@ I am currently working in Varco as Co-Founder & Software Engineer. I have profes
 
 ##### Contact
 
-* Mail: halilibrahimozdogan2@gmail.com
-* LinkedIn: [halilibrahimozdogan](https://www.linkedin.com/in/halilibrahimozdogan/)
+* <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/send.svg" width="16" height="16" /> Mail: halilibrahimozdogan2@gmail.com
+* <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/linkedin.svg" width="16" height="16" /> LinkedIn: [halilibrahimozdogan](https://www.linkedin.com/in/halilibrahimozdogan/)
 
 ##### Social
 * <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/stackoverflow.svg" width="16" height="16" /> Stackoverflow: [Halil İbrahim Özdoğan](https://stackoverflow.com/users/12359616/halil-%c4%b0brahim-%c3%96zdo%c4%9fan)
