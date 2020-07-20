@@ -17,4 +17,6 @@ I am currently working in Varco as Co-Founder & Software Engineer. I have profes
 * HackerRank: [ibrahimozdogan](https://www.hackerrank.com/ibrahimozdogan)
 * Codingame: [ibrahimozdogan](https://www.codingame.com/profile/037e6ca14a388dc8cbd8fd30a6a4d50a4538983)
 
-![Profile views](https://gpvc.arturio.dev/ibrahimozdogan)  
+![Profile views](https://gpvc.arturio.dev/ibrahimozdogan) 
+
+Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
