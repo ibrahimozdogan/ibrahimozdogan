@@ -2,9 +2,7 @@
 
 I am currently working in Varco as Co-Founder & Software Engineer. I have professional experience and specialization in working with web applications and mobile applications.
 
-**Skills**: Javascript | React.js | React Native | Node.js
-
-**The technologies are that I used:** Docker | Lambda | EC2 | S3 | PHP | Laravel | MongoDB | Vue.js | Express | Athena | Github | AngularJS | TypeORM | MySQL
+**Skills**: Javascript | React.js | React Native | Node.js | Docker | AWS (Lambda, EC2)
 
 ##### Contact
 
