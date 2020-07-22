@@ -20,6 +20,6 @@ I am currently working in Varco as Co-Founder & Software Engineer. I have profes
 
 
 ![Profile views](https://gpvc.arturio.dev/ibrahimozdogan)
-![Profile views](https://pxhlhrljb3.execute-api.eu-central-1.amazonaws.com/dev/count)
+![Profile views](https://pxhlhrljb3.execute-api.eu-central-1.amazonaws.com/dev/count?v)
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
