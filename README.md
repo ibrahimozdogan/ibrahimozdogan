@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working in Varco as Co-Founder & Software Engineer. I have professional experience and specialization in working with web applications and mobile applications.
+I am currently working at Varco as Co-Founder & Software Engineer. I have professional experience and specialization in working with web applications and mobile applications.
 
 **Skills**: Javascript | React.js | React Native | Node.js | Docker | AWS (Lambda, EC2, S3, Elastic Beanstalk, CodePipeline, RDS)
 
