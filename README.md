@@ -6,7 +6,7 @@ I am currently working at Varco as Co-Founder & Software Engineer. I have profes
 
 ##### Contact
 
-* <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/send.svg" width="16" height="16" /> Mail: halilibrahimozdogan2@gmail.com
+* <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/send.svg" width="16" height="16" /> Mail: me@ibrahimozdogan.com
 * <img src="https://github.com/ibrahimozdogan/ibrahimozdogan/blob/master/linkedin.svg" width="16" height="16" /> LinkedIn: [halilibrahimozdogan](https://www.linkedin.com/in/halilibrahimozdogan/)
 
 ##### Social
